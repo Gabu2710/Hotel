@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "funciones.h"
+#include "funciones 2.h"
 
 int main(int argc, char *argv[]) {
     char clientes[5][2][40] = {{"Juan", "1789654123"},
